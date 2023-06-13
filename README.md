@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabhchoudhary2496
 - 👀 I Write Code 
-- 🌱 Familiar with Node,React,Next and Javascript Ecosystem
+- 🌱 Familiar with Node, Javascript Ecosystem
 - 📫 How to reach me ...
 
 <!---
